@@ -1,4 +1,5 @@
-## Hi there 👋
+## Please note: webMethods community content has moved to IBM and is available [here](https://github.com/ibm-wm-transition).
+
 
 <!--
 
